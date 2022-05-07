@@ -31,8 +31,14 @@ Modelul fizic va fi realizat pe o masinuta de jucarie mai veche, care initial er
 Etapele proiectului:
 1. Deschiderea masinuta si verificarea vechilor piese pentru a vedea daca putem pastra ceva. De asemenea a fost nevoie si de curatarea prafului, fiind vorba de o jucarie de aproape 20 de ani.
 
+![WhatsApp Image 2022-05-05 at 12 56 23](https://user-images.githubusercontent.com/57183392/167270818-164c8fbd-96f4-4925-864e-5eb290625709.jpeg)
+
 2. Am constat ca majoritatea pieselor erau intr-o stare nu tocmai potrivita sau nu puteau fi adaptate pentru obiectivele proiectului. Totusi am pastrat motorasul pentru mersul inainte si inapoi, precum si sistemul mecanic de virare, fiind destul de complex si util.
   
+  ![WhatsApp Image 2022-05-05 at 12 56 22 (3)](https://user-images.githubusercontent.com/57183392/167270831-6c497147-9076-42b3-9fed-5ecf29875143.jpeg)
+  
+  ![WhatsApp Image 2022-05-05 at 12 56 22 (4)](https://user-images.githubusercontent.com/57183392/167270838-46df4ceb-50c0-4e4c-811a-0ddd45a2f75c.jpeg)
+
 3. Am achizitionat componentele necesare si am inceput asamblarea. 
  
 4. Dupa ce au fost livrate piesle a fost nevoie de o asezare foarte exacta a lor pe platforma masinutei, deoarece spatiul este foarte mic si ne dorim sa inchidem carcasa fara a fi nevoie sa taiem ceva.
