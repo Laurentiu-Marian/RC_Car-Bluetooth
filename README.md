@@ -5,13 +5,21 @@
 
 Descrierea functionalitatiilor
 	Pentru realizarea masinutei, intentionam sa folosim:
+	
 •	Placuta de dezvoltare Arduino;
+
 •	Modul Bluetooth;
+
 •	1 – 2 motoare DC;
+
 •	Aplicatie de control;
+
 •	Sursa de alimentare;
+
 •	Punte H;
+
 •	4 LED-uri;
+
 •	Masinuta de jucarie ( aceasta este o masinuta veche ce apartine unuia dintre noi).
 
 Masinuta va putea fi controlata inainte, inapoi, stanga si dreapta din aplicatie, folosind transmisia Bluetooth.De asemenea, am folosit 4 LED-uri, 2 in fata masinii si 2 in spate, reprezentand stopurile si farurile.
