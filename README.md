@@ -40,20 +40,30 @@ Etapele proiectului:
   ![WhatsApp Image 2022-05-05 at 12 56 22 (4)](https://user-images.githubusercontent.com/57183392/167270838-46df4ceb-50c0-4e4c-811a-0ddd45a2f75c.jpeg)
 
 3. Am achizitionat componentele necesare si am inceput asamblarea. 
- 
+
+![Screenshot 2022-05-07 233401](https://user-images.githubusercontent.com/57183392/167270867-1f192b49-2c4e-460d-a637-3929a776b02e.png)
+
 4. Dupa ce au fost livrate piesle a fost nevoie de o asezare foarte exacta a lor pe platforma masinutei, deoarece spatiul este foarte mic si ne dorim sa inchidem carcasa fara a fi nevoie sa taiem ceva.
   
+![WhatsApp Image 2022-05-05 at 12 56 22 (2)](https://user-images.githubusercontent.com/57183392/167270887-5ff44634-7882-42d0-b414-d0f4bf1810df.jpeg)
 
-In din stanga se poate observa placuta Arduino ce va fu noul “creier” al jucariei.
-	In figura din dreapta am folosit motorul servo pe care l-am adaptat la vechiul sistem de virare, deoarece inainte, atunci cand roata ajungea la limita, exista un mecanism care decupla motorasul DC pentru a se roti in gol, pana cand comanda din telecomada era anulata, urmand ca motorasul sa se opreasca, iar arcul sa aduca rotile pe pozitiile initale. Noi vom pastra sistemul deoarece ne ajuta la fi siguri ca noul servo aduce rotiile pe pozitie dreapta.
+![WhatsApp Image 2022-05-05 at 12 56 20 (1)](https://user-images.githubusercontent.com/57183392/167270891-c066e7a8-8b04-43ca-895d-6cf592fcf7b8.jpeg)
+
+In prima poza se poate observa placuta Arduino ce va fu noul “creier” al jucariei.
+In figura a doua am folosit motorul servo pe care l-am adaptat la vechiul sistem de virare, deoarece inainte, atunci cand roata ajungea la limita, exista un mecanism care decupla motorasul DC pentru a se roti in gol, pana cand comanda din telecomada era anulata, urmand ca motorasul sa se opreasca, iar arcul sa aduca rotile pe pozitiile initale. Noi vom pastra sistemul deoarece ne ajuta la fi siguri ca noul servo aduce rotiile pe pozitie dreapta.
 
 Pentru a miscarea in fata, respective in spate, a masinutei, am folosit o Punte H care v-a schimba polaritatea. La aceasta am cuplat si 4 LED-uri care se vor aprinde: doua pentru mersul cu fata si doua pentru mersul spatele cu.
  
+ ![WhatsApp Image 2022-05-05 at 12 56 21](https://user-images.githubusercontent.com/57183392/167270902-5bafd1a8-7da2-46c2-97c0-683542d2f683.jpeg)
+
 5. In urma efectuarilor acestor pasi, rezultatul final pe partea de circuite si piese, am obtinut urmatorul rezultat:
- 
+
+![WhatsApp Image 2022-05-05 at 12 56 21 (2)](https://user-images.githubusercontent.com/57183392/167270922-28245555-b258-44c7-8092-56f17f214b7e.jpeg)
 
 6. Pentru controlul de la distanta, prin Bluetooth, avem nevoie de o aplicatie pe telefon. Am folosit site-ul MIT AppInventor unde am creat functiile si butoanele, iar mai apoi  am descarcat-o pe telefon (functioneaza doar pe android).
  
+![WhatsApp Image 2022-05-05 at 13 30 52](https://user-images.githubusercontent.com/57183392/167270972-8f727e4e-0ede-4715-9bc1-526d037f4f06.jpeg)
 
 Avem 8 butoane de control al directieim unul pentru claxon, unul de moduri de control si unul pentru conectarea la masinuta.
  
+![image (1)](https://user-images.githubusercontent.com/57183392/167270976-44b9ecc4-c7a6-40b1-9358-6747bd442626.png)
