@@ -21,8 +21,12 @@ Proiecte similare de pe internet:
 3.	https://www.youtube.com/watch?v=Q36NbjPMV5k
 
 Schema de  baza pentru functionare, realizata in Tinkercad a proiectului (schema de mai sus nu este in tocmai cu modelul fizic, deoarece programul pentru simulare nu contine tot ce este nevoie):
- 
+
+![Schema](https://user-images.githubusercontent.com/57183392/167270771-c0b2b2be-faf4-4b6d-bbea-9a069c7cdd52.png)
+
 Modelul fizic va fi realizat pe o masinuta de jucarie mai veche, care initial era comandata radio printr-o telecomanda si antena.
+ 
+ ![WhatsApp Image 2022-05-05 at 12 59 18](https://user-images.githubusercontent.com/57183392/167270779-0383dda6-d769-4da1-bb15-cca2efc6b7c2.jpeg)
  
 Etapele proiectului:
 1. Deschiderea masinuta si verificarea vechilor piese pentru a vedea daca putem pastra ceva. De asemenea a fost nevoie si de curatarea prafului, fiind vorba de o jucarie de aproape 20 de ani.
