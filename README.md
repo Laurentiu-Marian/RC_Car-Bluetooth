@@ -69,6 +69,8 @@ Pentru a miscarea in fata, respective in spate, a masinutei, am folosit o Punte 
 
 ![WhatsApp Image 2022-05-05 at 12 56 21 (2)](https://user-images.githubusercontent.com/57183392/167270922-28245555-b258-44c7-8092-56f17f214b7e.jpeg)
 
+![WhatsApp Image 2022-05-16 at 18 47 44](https://user-images.githubusercontent.com/57183392/171645494-34853043-b9d6-40ed-8e86-fcb95c3c9dd7.jpeg)
+
 6. Pentru controlul de la distanta, prin Bluetooth, avem nevoie de o aplicatie pe telefon. Am folosit site-ul MIT AppInventor unde am creat functiile si butoanele, iar mai apoi  am descarcat-o pe telefon (functioneaza doar pe android).
  
 ![WhatsApp Image 2022-05-05 at 13 30 52](https://user-images.githubusercontent.com/57183392/167270972-8f727e4e-0ede-4715-9bc1-526d037f4f06.jpeg)
