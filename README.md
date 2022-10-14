@@ -50,8 +50,6 @@ Etapele proiectului:
 
 3. Am achizitionat componentele necesare si am inceput asamblarea. 
 
-![Screenshot 2022-05-07 233401](https://user-images.githubusercontent.com/57183392/167270867-1f192b49-2c4e-460d-a637-3929a776b02e.png)
-
 4. Dupa ce au fost livrate piesle a fost nevoie de o asezare foarte exacta a lor pe platforma masinutei, deoarece spatiul este foarte mic si ne dorim sa inchidem carcasa fara a fi nevoie sa taiem ceva.
   
 ![WhatsApp Image 2022-05-05 at 12 56 22 (2)](https://user-images.githubusercontent.com/57183392/167270887-5ff44634-7882-42d0-b414-d0f4bf1810df.jpeg)
