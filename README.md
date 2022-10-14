@@ -56,7 +56,7 @@ Etapele proiectului:
 
 ![WhatsApp Image 2022-05-05 at 12 56 20 (1)](https://user-images.githubusercontent.com/57183392/167270891-c066e7a8-8b04-43ca-895d-6cf592fcf7b8.jpeg)
 
-In prima poza se poate observa placuta Arduino ce va fu noul “creier” al jucariei.
+In prima poza se poate observa placuta Arduino ce va fi noul “creier” al jucariei.
 In figura a doua am folosit motorul servo pe care l-am adaptat la vechiul sistem de virare, deoarece inainte, atunci cand roata ajungea la limita, exista un mecanism care decupla motorasul DC pentru a se roti in gol, pana cand comanda din telecomada era anulata, urmand ca motorasul sa se opreasca, iar arcul sa aduca rotile pe pozitiile initale. Noi vom pastra sistemul deoarece ne ajuta la fi siguri ca noul servo aduce rotiile pe pozitie dreapta.
 
 Pentru a miscarea in fata, respective in spate, a masinutei, am folosit o Punte H care v-a schimba polaritatea. La aceasta am cuplat si 4 LED-uri care se vor aprinde: doua pentru mersul cu fata si doua pentru mersul spatele cu.
